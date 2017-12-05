@@ -1,0 +1,6 @@
+C:\Users\cariascx\Source\Repos\Encryption\DigitalSignature\bin\Debug\DigitalSignature.exe.config
+C:\Users\cariascx\Source\Repos\Encryption\DigitalSignature\bin\Debug\DigitalSignature.exe
+C:\Users\cariascx\Source\Repos\Encryption\DigitalSignature\bin\Debug\DigitalSignature.pdb
+C:\Users\cariascx\Source\Repos\Encryption\DigitalSignature\obj\Debug\DigitalSignature.csprojResolveAssemblyReference.cache
+C:\Users\cariascx\Source\Repos\Encryption\DigitalSignature\obj\Debug\DigitalSignature.exe
+C:\Users\cariascx\Source\Repos\Encryption\DigitalSignature\obj\Debug\DigitalSignature.pdb

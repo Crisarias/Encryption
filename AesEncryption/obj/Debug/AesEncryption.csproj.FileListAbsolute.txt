@@ -1,0 +1,6 @@
+c:\users\cariascx\documents\visual studio 2015\Projects\AesEncryption\AesEncryption\bin\Debug\AesEncryption.exe.config
+c:\users\cariascx\documents\visual studio 2015\Projects\AesEncryption\AesEncryption\bin\Debug\AesEncryption.exe
+c:\users\cariascx\documents\visual studio 2015\Projects\AesEncryption\AesEncryption\bin\Debug\AesEncryption.pdb
+c:\users\cariascx\documents\visual studio 2015\Projects\AesEncryption\AesEncryption\obj\Debug\AesEncryption.csprojResolveAssemblyReference.cache
+c:\users\cariascx\documents\visual studio 2015\Projects\AesEncryption\AesEncryption\obj\Debug\AesEncryption.exe
+c:\users\cariascx\documents\visual studio 2015\Projects\AesEncryption\AesEncryption\obj\Debug\AesEncryption.pdb

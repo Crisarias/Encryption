@@ -1,0 +1,7 @@
+makecert.exe -r -n "CN=RootCert" -pe -sv "C:\Certificates\RootCert.pvk" -a sha1 -len 2048 -b 01/01/2015 -e 01/01/2030 -cy authority "C:\Certificates\RootCert.cer"
+
+pvk2pfx.exe -pvk "C:\Certificates\RootCert.pvk" -spc "C:\Certificates\RootCert.cer" -pfx "C:\Certificates\RootCert.pfx"
+
+makecert.exe -ic "C:\Certificates\RootCert.cer" -iv "C:\Certificates\RootCert.pvk" -pe -sv "C:\Certificates\mylocalsite.local.pvk" -a sha1 -n “CN=mylocalsite.local” -len 2048 -b 01/01/2015 -e 01/01/2030 -sky exchange "C:\Certificates\mylocalsite.local.cer" -eku 1.3.6.1.5.5.7.3.1
+
+pvk2pfx.exe -pvk "C:\Certificates\mylocalsite.local.pvk" -spc "C:\Certificates\mylocalsite.local.cer" -pfx "C:\Certificates\mylocalsite.local.pfx"
